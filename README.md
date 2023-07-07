@@ -28,3 +28,25 @@
     <li>Составить отчёт о тестировании</li>
 </ol> </p>
  <h4> <a href="https://coffeeeveryday.atlassian.net/wiki/spaces/~6391cb0d00cb2fc3f98c2e28/pages/3112964/1-2">Ссылка на проект</a>
+ <html>
+<head>
+  <style>
+    .dropdown-content {
+      display: none;
+    }
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div class="dropdown">
+    <span>Нажми на меня</span>
+    <div class="dropdown-content">
+      <!-- Содержимое выпадающего списка -->
+      <a href="#">логин: lena.zhykova@yandex.ru</a>
+      <a href="#">пароль: !09292020!</a>
+    </div>
+  </div>
+</body>
+</html>
