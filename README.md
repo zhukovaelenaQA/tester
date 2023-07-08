@@ -32,7 +32,8 @@
 <details>
   <summary>Нажми меня</summary>
   
-  Это выпадающий текст!
+логин: lena.zhykova@yandex.ru
+пароль: !09292020!
 </details>
 
 Проект 2: тест расписание учителя через API
