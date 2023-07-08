@@ -32,7 +32,7 @@
 <details>
   <summary>Нажми меня</summary>
   
-логин: lena.zhykova@yandex.ru
+логин: lena.zhykova@yandex.ru <br>
 пароль: !09292020!
 </details>
 
