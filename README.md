@@ -28,7 +28,7 @@
 3. Составить отчёт о тестировании
 > <a href="https://coffeeeveryday.atlassian.net/wiki/spaces/~6391cb0d00cb2fc3f98c2e28/pages/3112964/1-2">Ссылка на проект</a>
 <details>
-  <summary>Нажми меня</summary>
+  <summary>Доспуп</summary>
   
 логин: lena.zhykova@yandex.ru <br>
 пароль: !09292020!
