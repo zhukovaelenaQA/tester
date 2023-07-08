@@ -1,0 +1,9 @@
+### Задание. 
+Написать запросы в Posnman для Trello. Токен, URL должны быть оформлены через переменную 
+
+1. Запрос на создание доски в Trello 
+{
+    "defaultLists" : "false" ,
+    "name" : "{{$randomColor}}" ,
+    "token" : "{{Token1}}"
+}
