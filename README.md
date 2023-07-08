@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/елена-жукова-273322282">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-   <img src="https://img.shields.io/badge/lena.zhykova@yandex.ru-yellow?style=for-the-badge&logo=yandex&logoColor=white" alt="yandex Badge"/>
-  </a> 
    <a href="https://web.telegram.org/k/#@violeus_syringa">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -44,3 +42,7 @@
 2. По найденным ошибкам написать баг-репорты 
 3. Составить отчёт по выполненному тестирования 
 > <a href="https://coffeeeveryday.atlassian.net/wiki/spaces/~6391cb0d00cb2fc3f98c2e28/pages/3112964/1-2">Ссылка на проект</a>
+
+### :dizzy: __Контактная информация__ :
+- Email:  lena.zhykova@yandex.ru
+- Номер телефона: +374 552 852 74
