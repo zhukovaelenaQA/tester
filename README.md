@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://64.media.tumblr.com/7fe40de45e1fa7caba69219214ce55c7/tumblr_nr3vdc5aNE1qza1qzo1_500.gifv" width="400" height="430"/>
-</div>
 
 ### :dizzy: __Обо мне__ : 
 :ringed_planet: Привет! Меня зовут Лена я начинающий инженер по тестированию. Приятно познакомиться! 
