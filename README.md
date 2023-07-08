@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/елена-жукова-273322282">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-   <img src="https://img.shields.io/badge/lena.zhykova@yandex.ru-yellow?style=for-the-badge&logo=yandexn&logoColor=white" alt="yandex Badge"/>
+   <img src="https://img.shields.io/badge/lena.zhykova@yandex.ru-yellow?style=for-the-badge&logo=yandex&logoColor=white" alt="yandex Badge"/>
   </a> 
    <a href="https://web.telegram.org/k/#@violeus_syringa">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
