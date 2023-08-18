@@ -33,7 +33,7 @@
 <details>
   <summary>Доступ</summary>
   
-логин: lena.zhykova@yandex.ru 
+логин: zhukova.elenaaaaa@gmail.com 
 пароль: !09292020!
 </details>
 
