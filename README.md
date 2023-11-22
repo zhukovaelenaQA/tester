@@ -16,7 +16,7 @@
 :computer: В этом репозитории Вы можете посмотреть мои проекты выполненные во время обучения. 
 
 ### :dizzy: __Навыки и технологии__ : 
-> jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI
+> jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI, мобильное тестирование, Git, HTML и CSS, CI/CD.
 
 ### :dizzy: __Проекты__ : 
 
