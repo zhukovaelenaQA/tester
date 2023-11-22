@@ -10,7 +10,7 @@
   </a>
 </div>
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/ba/9d/0b/ba9d0b56f48b4ecec4ddc8cbced67d78.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/ba/9d/0b/ba9d0b56f48b4ecec4ddc8cbced67d78.gif" width="300"/>
 </div>
 
 ### :dizzy: __Обо мне__ : 
