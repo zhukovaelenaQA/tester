@@ -9,7 +9,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
 ---
+
 ### :dizzy: __Обо мне__ : 
 :ringed_planet: Привет! Меня зовут Лена я начинающий инженер по тестированию. Приятно познакомиться! 
 
@@ -18,7 +20,9 @@
 ### :dizzy: __Контактная информация__ :
 - Email:  lena.zhykova@yandex.ru
 - Номер телефона: +374 552 852 74
+
 ---
+
 ### :dizzy: __Навыки и технологии__
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -35,6 +39,8 @@
   <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2Ep-AI1ISJmPFXuXGmNnkuXRsAfVzq7Aezx2GtuCYPp2zQUN7" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://miro.medium.com/v2/resize:fit:504/0*gS2k4hP6HBKqksCZ.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
 </div>
+
+---
 
 ### :dizzy: __Проекты__ : 
 
