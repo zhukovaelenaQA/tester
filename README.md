@@ -32,8 +32,8 @@
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/git_logo_icon_145254.png" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcST4lwFLiH8QGgLQlZM2MoUrgfNXtCi7I0r9spQcmQ4hHk0K0Np" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
-  <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2Ep-AI1ISJmPFXuXGmNnkuXRsAfVzq7Aezx2GtuCYPp2zQUN7" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
+  <img src="https://miro.medium.com/v2/resize:fit:504/0*gS2k4hP6HBKqksCZ.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
 </div>
 
 ### :dizzy: __Проекты__ : 
