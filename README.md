@@ -20,6 +20,7 @@
 
 ### :dizzy: __Навыки и технологии__ : 
 > jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI, мобильное тестирование, Git, HTML и CSS, CI/CD.
+> <img src="https://img.shields.io/badge/Jira-BA55D3?style=for-the-badge&logo=jira&logoColor=0052CC"/>
 
 ### :dizzy: __Проекты__ : 
 
